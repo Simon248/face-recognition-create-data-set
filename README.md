@@ -1,6 +1,6 @@
 # set creation for Deep Learning (C++)
 
-Before reading: this is my first repo and i'm not quite new in programming so be comprehensive.
+Before reading: this is my first repo and i'm quite new in programming so be comprehensive.
 
 ## Goal
 -from the zip file data face, create set of image file ready for deep learning 
